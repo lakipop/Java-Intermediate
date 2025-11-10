@@ -1,6 +1,24 @@
-# 🟡 Java Intermediate Complete
+# 🟡 Java Intermediate
 
 > **Intermediate-Level Java Programming** - GUI, Collections, JDBC & Advanced OOP
+
+[![Java](https://img.shields.io/badge/Java-8%2B-orange.svg)](https://www.java.com/)
+[![Level](https://img.shields.io/badge/Level-Intermediate-yellow.svg)]()
+
+---
+
+## 🔗 Part of Java Learning Path
+
+**This is Repository 2 of 4** - A complete progressive Java learning curriculum.
+
+| # | Repository | Level | Focus | Your Progress |
+|---|------------|-------|-------|---------------|
+| 1 | **[Java-Foundation](https://github.com/lakipop/Java-Foundation)** | 🟢 Beginner | Basics, OOP, Exceptions | ← Previous |
+| **2** | **[Java-Intermediate](https://github.com/lakipop/Java-Intermediate)** ⭐ | 🟡 Intermediate | GUI, JDBC, Collections | **← YOU ARE HERE** |
+| 3 | **[Java-Advanced](https://github.com/lakipop/Java-Advanced)** | 🔴 Advanced | Multithreading, Spring Boot | Next Step → |
+| 4 | **[Java-Design-Patterns](https://github.com/lakipop/Java-Design-Patterns)** | 🟣 Expert | 23 GoF Patterns | Future |
+
+**💡 Tip:** Each repository is standalone, but following the sequence gives the best learning experience!
 
 ---
 
@@ -8,7 +26,7 @@
 
 This repository contains **Intermediate-level Java practicals** covering GUI development, database operations, collections, and advanced OOP concepts.
 
-**Prerequisites:** Java-Foundation-Complete (or equivalent knowledge)  
+**Prerequisites:** Java-Foundation (or equivalent knowledge)  
 **Duration:** 3-4 weeks  
 **Skill Level:** 🟡 Intermediate
 
@@ -372,5 +390,21 @@ Educational use only. BICT Java Intermediate Course.
 ---
 
 **Happy Coding! 🚀**
+
+---
+
+## 🔗 Explore Other Repositories
+
+**Completed Intermediate?** Advance to the next level:
+
+➡️ **Next:** [Java-Advanced](https://github.com/lakipop/Java-Advanced) - Spring Boot, Multithreading, Networking
+
+**Full Learning Path:**
+1. 🟢 [Java-Foundation](https://github.com/lakipop/Java-Foundation)
+2. 🟡 [Java-Intermediate](https://github.com/lakipop/Java-Intermediate) ← You are here
+3. 🔴 [Java-Advanced](https://github.com/lakipop/Java-Advanced)
+4. 🟣 [Java-Design-Patterns](https://github.com/lakipop/Java-Design-Patterns)
+
+---
 
 *Part of the BICT Complete Java Course Collection*
